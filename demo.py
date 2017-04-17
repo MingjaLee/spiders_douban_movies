@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/env python
-#coding=gbk
 
 from lxml import etree
 import requests
